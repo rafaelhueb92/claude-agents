@@ -1,4 +1,4 @@
-# 🤖 Refund Agent
+# 🤖 Claude Agents for Study
 
 > A Claude-powered customer support agent that handles refunds end to end — built with the [Anthropic Python SDK](https://github.com/anthropics/anthropic-sdk-python) and a clean, layered tool architecture.
 
@@ -65,10 +65,8 @@ The agent will walk through the refund flow — looking up the customer ✅, che
 
 ## 🔑 Environment Variables
 
-| Variable            | Required | Description                  |
-|---------------------|:--------:|------------------------------|
-| `ANTHROPIC_API_KEY` | ✅       | Your Anthropic API key       |
+| Variable            | Required | Description            |
+| ------------------- | :------: | ---------------------- |
+| `ANTHROPIC_API_KEY` |    ✅    | Your Anthropic API key |
 
 ---
-
-Made with ❤️ and Claude Sonnet
